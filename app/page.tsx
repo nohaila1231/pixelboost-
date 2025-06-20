@@ -305,10 +305,10 @@ export default function RealPhotoEnhancer() {
                   <h3 className="text-2xl font-bold text-white mb-3">Uploadez votre photo à améliorer</h3>
                   <p className="text-gray-300 mb-6 text-lg">Vous verrez une VRAIE différence avant/après !</p>
                   <div className="space-y-3 mb-6">
-                    <p className="text-sm text-gray-400">✨ Résolution doublée (2x)</p>
-                    <p className="text-sm text-gray-400">🎯 Netteté réellement améliorée</p>
-                    <p className="text-sm text-gray-400">🌈 Couleurs et contraste boostés</p>
-                    <p className="text-sm text-gray-400">🔧 Amélioration visible</p>
+                    <p className="text-sm text-gray-400">Résolution doublée (2x)</p>
+                    <p className="text-sm text-gray-400">Netteté réellement améliorée</p>
+                    <p className="text-sm text-gray-400">Couleurs et contraste boostés</p>
+                    <p className="text-sm text-gray-400">Amélioration visible</p>
                   </div>
                   <Button
                     size="lg"
